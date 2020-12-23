@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4f59896-b86e-4ea2-b0ad-f024de0dbfbd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Oefenen met html &amp; css.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/git" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/DSC_0221.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,13 +35,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../html oefenen/index2.html" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/- goede foto's van ruben/DSC_0004.JPG" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kings\WebstormProjects\Oefenen met html &amp; css\images" />
       <recent name="C:\Users\kings\WebstormProjects\Oefenen met html &amp; css" />
     </key>
   </component>
@@ -56,7 +54,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607715908403</updated>
-      <workItem from="1607715909762" duration="5617000" />
+      <workItem from="1607715909762" duration="9544000" />
+      <workItem from="1607797789719" duration="53000" />
+      <workItem from="1607810414409" duration="3148000" />
+      <workItem from="1607867026712" duration="427000" />
+      <workItem from="1608329637140" duration="599000" />
+      <workItem from="1608379036143" duration="49000" />
+      <workItem from="1608674289374" duration="9568000" />
+      <workItem from="1608720288188" duration="12965000" />
     </task>
     <servers />
   </component>
@@ -73,5 +78,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
